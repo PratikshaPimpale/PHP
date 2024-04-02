@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_info>
+    <book>
+        <bno>101</bno>
+        <bname>DSA</bname>
+        <price>500</price>
+    </book>
+    <book>
+        <bno>102</bno>
+        <bname>JAVA</bname>
+        <price>700</price>
+    </book>
+    <book>
+        <bno>103</bno>
+        <bname>PYTHON</bname>
+        <price>800</price>
+    </book>
+    <book>
+        <bno>104</bno>
+        <bname>MARKETING</bname>
+        <price>670</price>
+    </book>
+    <book>
+        <bno>105</bno>
+        <bname>PHP</bname>
+        <price>450</price>
+    </book>
+</book_info>

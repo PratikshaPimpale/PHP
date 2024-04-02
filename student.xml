@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_info>
+    <student>
+        <rollno>101</rollno>
+        <name>Ajay</name>
+        <college>SDM</college>
+        <course>BCA</course>
+    </student>
+    <student>
+        <rollno>102</rollno>
+        <name>Pooja</name>
+        <college>DY Patil</college>
+        <course>BCA</course>
+    </student>
+    <student>
+        <rollno>103</rollno>
+        <name>Bhakti</name>
+        <college>CDJ</college>
+        <course>BCS</course>
+    </student>
+</student_info>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <item>
+        <ino>11</ino>
+        <iname>PEN</iname>
+        <qty>10</qty>
+        <price>10</price>
+    </item>
+    <item>
+        <ino>12</ino>
+        <iname>BOOK</iname>
+        <qty>10</qty>
+        <price>100</price>
+    </item>
+</info>

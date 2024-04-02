@@ -1,0 +1,23 @@
+<?xml-stylesheet type="text/css" href="university.css" version="1.0"?>
+<info>
+    <univ>
+        <uname>SPPU</uname>
+        <city>Pune</city>
+        <rank>1st</rank>
+    </univ>
+    <univ>
+        <uname>ABC</uname>
+        <city>Nashik</city>
+        <rank>3rd</rank>
+    </univ>
+    <univ>
+        <uname>PQR</uname>
+        <city>Nagar</city>
+        <rank>2nd</rank>
+    </univ>
+    <univ>
+        <uname>XYZ</uname>
+        <city>Mumbai</city>
+        <rank>4th</rank>
+    </univ>
+</info>

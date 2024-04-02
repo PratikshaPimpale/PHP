@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <player>
+        <name>Virat Kohali</name>
+        <runs>1200</runs>
+        <wickets>55</wickets>
+    </player>
+    <player>
+        <name>Rohit Sharma</name>
+        <runs>1300</runs>
+        <wickets>45</wickets>
+    </player>
+    <player>
+        <name>Hardik Pandya</name>
+        <runs>1500</runs>
+        <wickets>75</wickets>
+    </player>
+    <player>
+        <name>Shubhmangil</name>
+        <runs>1600</runs>
+        <wickets>95</wickets>
+    </player>
+    <player>
+        <name>ABC</name>
+        <runs>190</runs>
+        <wickets>15</wickets>
+    </player>
+</cricket>
